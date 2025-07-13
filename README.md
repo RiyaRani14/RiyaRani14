@@ -1,3 +1,4 @@
+![logo](https://github.com/RiyaRani14/RiyaRani14/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Riya Rani</h1>
 <h3 align="center">Passionate about coding, problem solving and lifelong learning.</h3>
 
